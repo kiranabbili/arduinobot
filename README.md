@@ -1,5 +1,5 @@
 # arduinobot
-#Arduinobot using ROS2 humble
+#Arduinobot urdf
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="arduinobot">
     <xacro:property name="PI" value="3.14159"/>
